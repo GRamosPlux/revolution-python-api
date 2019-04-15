@@ -46,10 +46,14 @@ pip install pyserial
 
 3. During the installation select the "Custom" option
 
+![Selection of Custom Option](https://i.postimg.cc/vTcMxjpy/git-part1.png)
+
 4. On the new screen, select some additional functionalities required for **pyBluez** installation, namely:
 * Visual C++
 * Python Tools for Visual Studio
 * Windows 10 SDK
+
+![Selection of Tools](https://i.postimg.cc/qqSrswT3/git-part2.png)
 
 5. After ending step 4 you will be able to install **PyBluez**
 
